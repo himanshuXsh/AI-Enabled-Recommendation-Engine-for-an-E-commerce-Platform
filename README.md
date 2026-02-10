@@ -30,13 +30,17 @@ This project implements a complete **AI-powered recommendation engine** that ana
 ### Screenshots
 
 **Home Dashboard:**
-![Home Dashboard](screenshots/home.png)
+<img width="1919" height="991" alt="Screenshot 2026-02-10 105022" src="https://github.com/user-attachments/assets/5edbb798-7d87-4177-a4f3-1fe25b0be4f5" />
+<img width="1919" height="1061" alt="Screenshot 2026-02-10 105045" src="https://github.com/user-attachments/assets/773f2aa6-387c-466b-bc35-d8f2fa4c101b" />
+
 
 **User Recommendations:**
-![User Recommendations](screenshots/user_recs.png)
+<img width="1919" height="1003" alt="Screenshot 2026-02-10 105113" src="https://github.com/user-attachments/assets/654a3016-176c-4f9b-85d8-bc9d74737df1" />
 
-**Model Performance:**
-![Performance](screenshots/performance.png)
+<img width="1919" height="1006" alt="Screenshot 2026-02-10 105205" src="https://github.com/user-attachments/assets/0f153bc8-464d-4578-98a9-fc9235b00884" />
+<img width="1916" height="1009" alt="Screenshot 2026-02-10 105126" src="https://github.com/user-attachments/assets/2f7dc417-e3e6-43e5-be4d-1ddacba80ec0" />
+
+
 
 ---
 
