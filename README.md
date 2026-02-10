@@ -39,6 +39,8 @@ This project implements a complete **AI-powered recommendation engine** that ana
 
 <img width="1919" height="1006" alt="Screenshot 2026-02-10 105205" src="https://github.com/user-attachments/assets/0f153bc8-464d-4578-98a9-fc9235b00884" />
 <img width="1916" height="1009" alt="Screenshot 2026-02-10 105126" src="https://github.com/user-attachments/assets/2f7dc417-e3e6-43e5-be4d-1ddacba80ec0" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/2ab855a5-d7ca-4405-8707-ddb5bc2168c2" />
+
 
 
 
