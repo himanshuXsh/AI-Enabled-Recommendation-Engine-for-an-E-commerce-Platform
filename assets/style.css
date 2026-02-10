@@ -1,0 +1,35 @@
+/* Modern Dark Theme Styling */
+.stApp {
+    background-color: #0e1117;
+    color: #ffffff;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #161b22;
+    border-right: 1px solid #30363d;
+}
+
+/* Metrics Cards */
+[data-testid="stMetricValue"] {
+    font-size: 2rem !important;
+    color: #58a6ff;
+}
+
+div[data-testid="stMetric"] {
+    background-color: #21262d;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #30363d;
+}
+
+/* Tables */
+[data-testid="stDataFrame"] {
+    border: 1px solid #30363d;
+}
+
+/* Headers */
+h1, h2, h3 {
+    font-family: 'Inter', sans-serif;
+    color: #f0f6fc !important;
+}
