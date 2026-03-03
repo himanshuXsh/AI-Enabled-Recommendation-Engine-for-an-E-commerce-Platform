@@ -1,5 +1,7 @@
 # 🛍️ AI-Powered Retail Intelligence
 
+https://ai-enabled-recommendation-engine-for-an-e-commerce-platform-2.streamlit.app/
+
 An enterprise-grade recommendation system using Collaborative Filtering to predict customer preferences and boost e-commerce sales.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
